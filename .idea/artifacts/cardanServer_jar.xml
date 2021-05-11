@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="cardanServer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/cardanServer_jar</output-path>
+    <root id="archive" name="cardanServer.jar">
+      <element id="module-output" name="cardanServer" />
+    </root>
+  </artifact>
+</component>

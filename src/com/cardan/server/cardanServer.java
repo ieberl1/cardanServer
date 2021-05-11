@@ -14,7 +14,7 @@ import java.net.DatagramSocket;
 import java.net.InetAddress;
 import java.net.SocketException;
 
-public class Main {
+public class cardanServer {
     /**
      * <p>Listen on a UDP port forever and when data is received print the data and reply to the sender with the total
      * number of bytes received
