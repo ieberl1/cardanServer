@@ -1,6 +1,3 @@
-package com.cardan.server;
-
-
 /*
     This program:
 (DONE)    1. listen on UDP 22333
